@@ -20,4 +20,15 @@ Step 4: create Training data set
 
 Step 5: Build the LSTM network model
 
+Step 6: Train the model
+
+
+Step 7: create Testing data set
+
+Step 8: Run model on Test data
+
+Step 9: Calculate Root Mean Square Error
+
+Step 10: predicting closing price value of Apple Inc. for December 18, 2019 (12/18/2019).
+
 
